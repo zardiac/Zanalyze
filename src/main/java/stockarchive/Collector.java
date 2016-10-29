@@ -1,4 +1,4 @@
-package com.zardiac.StockArchive;
+package com.zardiac.stockarchive;
 
 import java.util.Date;
 import java.io.BufferedReader;

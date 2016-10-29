@@ -1,9 +1,10 @@
 package com.zardiac;
+import com.zardiac.stockarchive.Collector;
 
-public class StockArchive {
+public class Zanalyze {
     public static void main(String... args) {
 	Collector cl = new Collector();
-	System.out.println("Welcome to Stock Archive!");
+	System.out.println("Welcome to Zanalyze!");
 	try{
 	    System.out.println(cl.sendGet());
 	}catch(Exception ioe)
