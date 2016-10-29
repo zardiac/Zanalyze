@@ -1,5 +1,5 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = "com.shugyo.StockArchive.StockArchive"
+mainClassName = "com.zardiac.Zanalyze"
 applicationDefaultJvmArgs = ["-ea"]
